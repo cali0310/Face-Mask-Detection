@@ -1,4 +1,5 @@
 Real-time Face Mask Detection
+
 This project is a real-time face mask detection system using OpenCV, TensorFlow, and Keras. The program captures video from a webcam, detects faces using Haar Cascade Classifier, and classifies them as "With Mask" or "Without Mask" using a pre-trained deep learning model.
 
 Prerequisites:
